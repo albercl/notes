@@ -1,5 +1,3 @@
-package es.um.atica.casiopeaadmin.util;
-
 import java.util.Date;
 
 public class TypeUtils {
